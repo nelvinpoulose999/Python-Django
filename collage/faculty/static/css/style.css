@@ -1,0 +1,53 @@
+.body{
+    background-color:white;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+h2{
+    color:red;
+}
+h3{
+color:pink;
+}
+.main1{
+   text-align:center;
+   width:100%;
+   border: 1px solid black;
+   background-color:red;
+   margin-top:25%;
+   padding-top: 5%;
+   padding-bottom: 10%;
+   border-radius: 5px*
+}
+.main{
+   text-align:center;
+   width:100%;
+   border: 1px solid black;
+   background-color:orange;
+   margin-top:25%;
+   padding-top: 5%;
+   padding-bottom: 10%;
+   border-radius: 5px
+}
+.firs{
+padding-top: 8%;
+}
+.use{
+padding-top: 1%;
+}
+.pss{
+padding-top: 1%;
+}
+.cre{
+padding-top: 1%;
+}
+/*.input{
+width:90%
+}*/
+.sub{
+width:60%
+}
+.textin{
+width:100%;
+}

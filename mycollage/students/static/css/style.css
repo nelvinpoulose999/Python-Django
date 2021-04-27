@@ -1,0 +1,44 @@
+/* Student Registeration*/
+
+body{
+background-image:url("../images/img3.jpg");
+background-size:100%;
+background-repeat:no-repeat;
+}
+
+h2{
+color: #211212;
+text-align:center;
+ }
+
+.main{
+/*background-color:#ffffff00;*/
+border: 1px solid grey;
+border-radius:5px;
+margin-top:35%;
+}
+
+.input{
+text-align:center;
+margin-top:5px;
+}
+
+.subm{
+text-align:center;
+margin-top:10px;
+margin-bottom:10px;
+}
+
+.button{
+width:40%;
+border-radius:5px;
+}
+
+.box{
+text-align:center;
+width:75%;
+border-radius:5px;
+}
+.home{
+background-image:url("../images/img5.jpg");
+}
